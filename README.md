@@ -37,3 +37,11 @@ To deploy this project locally
 ```
 
 
+
+## Authors
+
+- [@Deep Sarker](https://linkedin.com/in/deepsarker)
+
+- [@Tanvir Mahmud](https://github.com/tanvirnbd)
+
+- [@Sadamun Ahemed Biplob](https://github.com/sademun)
