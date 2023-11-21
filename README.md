@@ -38,6 +38,20 @@ To deploy this project locally
 
 
 
+## Demo
+
+Main Page
+
+![App Screenshot](https://raw.githubusercontent.com/deepsarker1/diabetes-prediction/main/images/main.png)
+
+Predicted Yes
+
+![App Screenshot](https://raw.githubusercontent.com/deepsarker1/diabetes-prediction/main/images/yes.png)
+
+Predicted No
+
+![App Screenshot](https://raw.githubusercontent.com/deepsarker1/diabetes-prediction/main/images/no.png)
+
 ## Authors
 
 - [@Deep Sarker](https://linkedin.com/in/deepsarker)
